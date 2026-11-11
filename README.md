@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://ssmanikandaprabu.github.io/S.S-MANIKANDA-PRABU/manikanda_portfolio.html">
+  <a href="https://ssmanikandaprabu.github.io/portfolio-3d/">
     <img src="./assets/hero-3d.svg" alt="S.S. Manikanda Prabu 3D Hero Banner" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://ssmanikandaprabu.github.io/S.S-MANIKANDA-PRABU/manikanda_portfolio.html">
+  <a href="https://ssmanikandaprabu.github.io/portfolio-3d/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI%2FML+%26+Blockchain;Client-Side+Systems+%26+Privacy-First+Tools;3rd-Year+B.Tech+CSE+%40+SRM+IST+(CGPA+8.44)" alt="Typing SVG" />
   </a>
 </p>
@@ -148,7 +148,8 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 
 ## 🌐 Contact & Links  
 
-- 🧭 Portfolio: [ssmanikandaprabu.github.io](https://ssmanikandaprabu.github.io/S.S-MANIKANDA-PRABU/manikanda_portfolio.html)  
+- 🚀 **3D Interactive Portfolio:** [ssmanikandaprabu.github.io/portfolio-3d](https://ssmanikandaprabu.github.io/portfolio-3d/)  
+- 🧭 Classic Portfolio: [ssmanikandaprabu.github.io/S.S-MANIKANDA-PRABU](https://ssmanikandaprabu.github.io/S.S-MANIKANDA-PRABU/manikanda_portfolio.html)  
 - 📧 Email: [ssmanikandaprabu@gmail.com](mailto:ssmanikandaprabu@gmail.com)  
 - 💼 LinkedIn: [S.S. Manikanda Prabu](https://www.linkedin.com/in/s-s-manikanda-prabu-40070b325/)  
 - 🛠 GitHub: [SSManikandaprabu](https://github.com/SSManikandaprabu)  
