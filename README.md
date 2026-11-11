@@ -53,10 +53,37 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 | :--- | :--- | :--- | :--- |
 | **PDFly** | 100% in-browser privacy-first PDF suite (merge, split, rotate, RC4 encryption, iterative compression) with zero server uploads | JavaScript, WebAssembly, pdf-lib, PDF.js, Web Workers | [Live Demo](https://pdfly-five.vercel.app) · [GitHub](https://github.com/SSManikandaprabu/pdfly) |
 | **CertChain** | Blockchain certificate verification platform using SHA-256 hashes, per-batch Merkle trees & Polygon smart contracts | Solidity, Next.js, TypeScript, Polygon, Web Crypto API | [Live Demo](https://certchain-six.vercel.app/) · [GitHub](https://github.com/SSManikandaprabu/certchain) |
-| **Tuition Desk** | 12-module offline-first PWA tuition manager with attendance, fee ledgers, atomic receipts & WhatsApp reminders | React 18, Node.js, Express, SQLite, Supabase, PWA | [Live Demo](https://tuition-desk-mom.vercel.app) · [GitHub](https://github.com/SSManikandaprabu/tuition-desk) |
+| **Tuition Desk** | 12-module offline-first PWA tuition manager with attendance, fee ledgers, atomic receipts & WhatsApp reminders | React 18, Node.js, Express, SQLite, Supabase, PWA | [Live Demo](https://tuition-desk-mom.vercel.app) · *Private Repo* |
 | **SRM Note Finder** | Full-stack academic hub with unit-wise notes, PYQs, SGPA/CGPA tools, JWT auth & moderated Socket.io chat | React, Node.js, Express, MongoDB, Socket.io, JWT | [Live Demo](https://srm-note-finder.vercel.app) · [GitHub](https://github.com/SSManikandaprabu/srm-note-finder) |
 | **HarvestAI** | Fruit maturity classifier (Unripe / Ripe / Overripe) achieving **96.0% test accuracy** (macro F1 `0.959`) | Python, TensorFlow/Keras, MobileNetV2, Flask | [Live Demo](https://harvestai-fruit-maturity-classification.onrender.com) · [GitHub](https://github.com/SSManikandaprabu/HarvestAI-Fruit-Maturity-Classification) |
 | **CareFlow** | Clinical appointment & live patient queue system with WebSocket room-call alerts and digital EHR/prescriptions | Next.js, TypeScript, Express, PostgreSQL, Prisma, Socket.io | [Live Demo](https://ssmanikandaprabu.github.io/careflow-hospital/) · [GitHub](https://github.com/SSManikandaprabu/careflow-hospital) |
+
+### 📌 Highlighted Repositories
+
+<p align="center">
+  <a href="https://github.com/SSManikandaprabu/pdfly">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SSManikandaprabu&repo=pdfly&theme=radical" width="48%" alt="pdfly" />
+  </a>
+  <a href="https://github.com/SSManikandaprabu/certchain">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SSManikandaprabu&repo=certchain&theme=radical" width="48%" alt="certchain" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SSManikandaprabu/srm-note-finder">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SSManikandaprabu&repo=srm-note-finder&theme=radical" width="48%" alt="srm-note-finder" />
+  </a>
+  <a href="https://github.com/SSManikandaprabu/HarvestAI-Fruit-Maturity-Classification">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SSManikandaprabu&repo=HarvestAI-Fruit-Maturity-Classification&theme=radical" width="48%" alt="HarvestAI" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SSManikandaprabu/careflow-hospital">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SSManikandaprabu&repo=careflow-hospital&theme=radical" width="48%" alt="careflow-hospital" />
+  </a>
+  <a href="https://github.com/SSManikandaprabu/S.S-MANIKANDA-PRABU">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SSManikandaprabu&repo=S.S-MANIKANDA-PRABU&theme=radical" width="48%" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
