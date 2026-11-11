@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SSManikandaprabu&color=FE428E&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SSManikandaprabu&color=FE428E&style=for-the-badge&base=100" alt="Profile Views" />
 </p>
 
 > *"Engineering privacy-first tools, full-stack systems, and applied AI."*  
