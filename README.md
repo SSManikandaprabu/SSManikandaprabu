@@ -1,17 +1,9 @@
-<p align="center">
-  <a href="https://ssmanikandaprabu.github.io/portfolio-3d/">
-    <img src="./assets/hero-3d.jpg" alt="S.S. Manikanda Prabu 3D Hero Banner" />
-  </a>
-</p>
+# S.S. Manikanda Prabu 👨‍💻  
 
 <p align="center">
   <a href="https://ssmanikandaprabu.github.io/portfolio-3d/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI%2FML+%26+Blockchain;Client-Side+Systems+%26+Privacy-First+Tools;3rd-Year+B.Tech+CSE+%40+SRM+IST+(CGPA+8.44)" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SSManikandaprabu&color=FE428E&style=for-the-badge&base=100" alt="Profile Views" />
 </p>
 
 > *"Engineering privacy-first tools, full-stack systems, and applied AI."*  
@@ -36,10 +28,6 @@ I build practical products across **client-side systems**, **full-stack web appl
 
 Hey! I'm **Manikanda Prabu** 👨‍💻  
 I enjoy turning real-world workflows into fast, reliable software — from **100% browser-based privacy tools** and **Polygon-backed verification systems** to **real-time web platforms** and **computer vision classifiers**.  
-
-<p align="center">
-  <img src="./assets/terminal-3d.jpg" alt="Developer Telemetry Terminal" />
-</p>
 
 ### 🧠 Quick Facts  
 - 🏠 Based in **Hosur / Chennai, Tamil Nadu (India)**  
