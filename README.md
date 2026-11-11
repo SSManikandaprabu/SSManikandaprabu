@@ -1,4 +1,15 @@
 # S.S. Manikanda Prabu 👨‍💻  
+
+<p align="center">
+  <a href="https://ssmanikandaprabu.github.io/S.S-MANIKANDA-PRABU/manikanda_portfolio.html">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI%2FML+%26+Blockchain;Client-Side+Systems+%26+Privacy-First+Tools;3rd-Year+B.Tech+CSE+%40+SRM+IST+(CGPA+8.44)" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SSManikandaprabu&color=FE428E&style=for-the-badge" alt="Profile Views" />
+</p>
+
 > *"Engineering privacy-first tools, full-stack systems, and applied AI."*  
 
 Welcome to the official GitHub profile of **S.S. Manikanda Prabu** (`@SSManikandaprabu`) — a third-year **Computer Science and Engineering** undergraduate (**CGPA 8.44/10**) at **SRM Institute of Science and Technology, Chennai**, based in **Hosur, Tamil Nadu (India)**.  
@@ -126,6 +137,7 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 
 ## 🌐 Contact & Links  
 
+- 🧭 Portfolio: [ssmanikandaprabu.github.io](https://ssmanikandaprabu.github.io/S.S-MANIKANDA-PRABU/manikanda_portfolio.html)  
 - 📧 Email: [ssmanikandaprabu@gmail.com](mailto:ssmanikandaprabu@gmail.com)  
 - 💼 LinkedIn: [S.S. Manikanda Prabu](https://www.linkedin.com/in/s-s-manikanda-prabu-40070b325/)  
 - 🛠 GitHub: [SSManikandaprabu](https://github.com/SSManikandaprabu)  
