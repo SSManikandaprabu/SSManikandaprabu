@@ -37,6 +37,10 @@ I build practical products across **client-side systems**, **full-stack web appl
 Hey! I'm **Manikanda Prabu** 👨‍💻  
 I enjoy turning real-world workflows into fast, reliable software — from **100% browser-based privacy tools** and **Polygon-backed verification systems** to **real-time web platforms** and **computer vision classifiers**.  
 
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Developer Telemetry Terminal" />
+</p>
+
 ### 🧠 Quick Facts  
 - 🏠 Based in **Hosur / Chennai, Tamil Nadu (India)**  
 - 🎓 **Education:** B.Tech in Computer Science & Engineering, SRM IST Ramapuram (`2024 – 2028` · **CGPA: 8.44 / 10**)  
