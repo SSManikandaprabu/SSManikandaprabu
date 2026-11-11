@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ssmanikandaprabu.github.io/portfolio-3d/">
-    <img src="./assets/hero-3d.svg" alt="S.S. Manikanda Prabu 3D Hero Banner" />
+    <img src="./assets/hero-3d.jpg" alt="S.S. Manikanda Prabu 3D Hero Banner" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Hey! I'm **Manikanda Prabu** 👨‍💻
 I enjoy turning real-world workflows into fast, reliable software — from **100% browser-based privacy tools** and **Polygon-backed verification systems** to **real-time web platforms** and **computer vision classifiers**.  
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Developer Telemetry Terminal" />
+  <img src="./assets/terminal-3d.jpg" alt="Developer Telemetry Terminal" />
 </p>
 
 ### 🧠 Quick Facts  
@@ -52,6 +52,18 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 - 💬 **Languages:** Python, Solidity, JavaScript/TypeScript, SQL, PHP, C/C++  
 - 🛠 **Frameworks & Platforms:**  
   `React`, `Next.js`, `Node.js`, `Express`, `Socket.io`, `Flask`, `Flutter`, `Tailwind CSS`, `Vite`, `Polygon`, `NextAuth`, `TensorFlow/Keras`, `Scikit-learn`, `Pandas`, `NumPy`, `NLTK`, `MongoDB`, `PostgreSQL (Supabase)`, `SQLite`, `Prisma`, `AWS`, `Git/GitHub`, `Vercel`, and `Render`  
+
+---
+
+## 🌌 Interactive 3D Developer Workspace
+
+<p align="center">
+  <a href="https://ssmanikandaprabu.github.io/portfolio-3d/">
+    <img src="./assets/workspace-3d.jpg" alt="3D Isometric Developer Workspace" />
+  </a>
+  <br />
+  <em>Click the workspace above to launch the live <strong>Three.js / React Three Fiber</strong> 3D Portfolio → <a href="https://ssmanikandaprabu.github.io/portfolio-3d/">ssmanikandaprabu.github.io/portfolio-3d</a></em>
+</p>
 
 ---
 
