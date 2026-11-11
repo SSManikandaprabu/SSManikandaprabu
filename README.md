@@ -1,4 +1,8 @@
-# S.S. Manikanda Prabu 👨‍💻  
+<p align="center">
+  <a href="https://ssmanikandaprabu.github.io/S.S-MANIKANDA-PRABU/manikanda_portfolio.html">
+    <img src="./assets/hero-3d.svg" alt="S.S. Manikanda Prabu 3D Hero Banner" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://ssmanikandaprabu.github.io/S.S-MANIKANDA-PRABU/manikanda_portfolio.html">
@@ -119,6 +123,9 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SSManikandaprabu&theme=radical" alt="Contribution Graph" />
 </p>
+<p align="center">
+  <img src="./assets/contrib-3d.svg" alt="3D Isometric Contribution City" />
+</p>
 
 ---
 
@@ -150,3 +157,7 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 > All repositories and live deployments listed above are built and maintained under this profile.  
 
 ✨ *Let's build something impactful — open to software engineering internships and collaborations!*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:FE428E,100:A9FEF7&height=110&section=footer" width="100%" alt="Animated Footer Wave" />
+</p>
