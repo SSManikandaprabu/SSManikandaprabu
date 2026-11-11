@@ -86,7 +86,7 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 ## 🏆 GitHub Trophy Wall  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SSManikandaprabu&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-trophies.devomb.com/?username=SSManikandaprabu&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -94,8 +94,11 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSManikandaprabu&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSManikandaprabu&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SSManikandaprabu&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SSManikandaprabu&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SSManikandaprabu&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -103,7 +106,7 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSManikandaprabu&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SSManikandaprabu&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
