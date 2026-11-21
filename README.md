@@ -10,7 +10,7 @@
 
 Welcome to the official GitHub profile of **S.S. Manikanda Prabu** (`@SSManikandaprabu`) — a third-year **Computer Science and Engineering** undergraduate (**CGPA 8.44/10**) at **SRM Institute of Science and Technology, Chennai**, based in **Hosur, Tamil Nadu (India)**.  
 
-I build practical products across **client-side systems**, **full-stack web applications**, **blockchain credentialing**, and **applied AI/ML** — and I am actively seeking **Software Engineering Internships**.
+I build production systems across **full-stack web development**, **high-concurrency backend services**, **blockchain credentialing**, and **applied AI/ML** — and I am actively seeking **Software Engineering Internships**.
 
 ---
 
@@ -18,7 +18,7 @@ I build practical products across **client-side systems**, **full-stack web appl
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,solidity,js,ts,php,c,cpp,react,nextjs,nodejs,express,flask,flutter,tailwind,vite,wasm,mongodb,postgres,sqlite,supabase,prisma,tensorflow,sklearn,aws,git,github,vercel,vscode,postman&perline=15" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,solidity,js,ts,php,c,cpp,react,nextjs,nodejs,express,flask,flutter,tailwind,vite,wasm,mysql,postgres,mongodb,sqlite,supabase,prisma,tensorflow,sklearn,aws,git,github,vercel,vscode,postman&perline=16" />
   </a>
 </p>
 
@@ -27,19 +27,20 @@ I build practical products across **client-side systems**, **full-stack web appl
 ## 👤 About Me  
 
 Hey! I'm **Manikanda Prabu** 👨‍💻  
-I enjoy turning real-world workflows into fast, reliable software — from **100% browser-based privacy tools** and **Polygon-backed verification systems** to **real-time web platforms** and **computer vision classifiers**.  
+Third-year Computer Science and Engineering undergraduate (**CGPA 8.44/10**) building production products across full-stack web development and high-concurrency systems. Built platforms serving **1,000+ active students** (SRM Note Finder), client-side privacy tools (PDFly), blockchain registries (CertChain), and hospital workflows (CareFlow). Experience at Titan Company, TEAL, Growfinix, and incoming Java Development Intern (Associate L1) at Infotact Solutions — actively seeking **Software Engineering Internships**.
 
 ### 🧠 Quick Facts  
 - 🏠 Based in **Hosur / Chennai, Tamil Nadu (India)**  
 - 🎓 **Education:** B.Tech in Computer Science & Engineering, SRM IST Ramapuram (`2024 – 2028` · **CGPA: 8.44 / 10**)  
 - 💼 **Experience:**  
+  - **Java Development Intern (Associate L1)** @ Infotact Solutions (Remote) *(Nov 2026 – Feb 2027)*  
   - **Digital & Automation Intern** @ Titan Engineering & Automation Limited (TEAL), Hosur *(Jul 2026)*  
   - **Digital Domain Intern, ISCM** @ Titan Company Limited (Watches Division), Hosur *(Jun 2026)*  
   - **Full-Stack Development Intern** @ Growfinix Technology *(May – Jun 2026)*  
-- 🎯 **Focus:** Client-Side Systems, Full-Stack Web, Blockchain & Applied AI/ML  
-- 💬 **Languages:** Python, Solidity, JavaScript/TypeScript, SQL, PHP, C/C++  
+- 🎯 **Focus:** High-Concurrency Systems, Full-Stack Web Development, Java/Spring Boot & Applied AI/ML  
+- 💬 **Languages:** Java, Python, Solidity, JavaScript/TypeScript, SQL, PHP, C/C++  
 - 🛠 **Frameworks & Platforms:**  
-  `React`, `Next.js`, `Node.js`, `Express`, `Socket.io`, `Flask`, `Flutter`, `Tailwind CSS`, `Vite`, `Polygon`, `NextAuth`, `TensorFlow/Keras`, `Scikit-learn`, `Pandas`, `NumPy`, `NLTK`, `MongoDB`, `PostgreSQL (Supabase)`, `SQLite`, `Prisma`, `AWS`, `Git/GitHub`, `Vercel`, and `Render`  
+  `Spring Boot`, `React`, `Next.js`, `Node.js`, `Express`, `Socket.io`, `Flask`, `Flutter`, `Tailwind CSS`, `Vite`, `Polygon`, `NextAuth`, `TensorFlow/Keras`, `Scikit-learn`, `Pandas`, `NumPy`, `NLTK`, `MySQL`, `PostgreSQL (Supabase)`, `MongoDB`, `SQLite`, `Prisma`, `AWS`, `Git/GitHub`, `Vercel`, and `Render`  
 
 ---
 
@@ -59,24 +60,27 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **SRM Note Finder** | Full-stack academic hub serving **1,000+ active students** with unit-wise lecture notes, PYQs, GPA tools, JWT auth & moderated Socket.io chat | React, Node.js, Express, MongoDB, Socket.io, JWT, Vercel Edge CDN | [Live Demo](https://srm-note-finder.vercel.app) · [GitHub](https://github.com/SSManikandaprabu/srm-note-finder) |
+| **MAVORA** | 3D Luxury Chocolate Flagship & 0%-fee Direct UPI Engine with Three.js chocolate physics, liquid gold shaders & automated SSE reconciliation | React 19, Three.js, React Three Fiber, WebGL, Tailwind CSS, Node.js, SQLite WAL | [Live Demo](https://mavora-luxury-chocolate.vercel.app) · [GitHub](https://github.com/SSManikandaprabu/mavora-luxury-chocolate) |
 | **PDFly** | 100% in-browser privacy-first PDF suite (merge, split, rotate, RC4 encryption, iterative compression) with zero server uploads | JavaScript, WebAssembly, pdf-lib, PDF.js, Web Workers | [Live Demo](https://pdfly-five.vercel.app) · [GitHub](https://github.com/SSManikandaprabu/pdfly) |
 | **CertChain** | Blockchain certificate verification platform using SHA-256 hashes, per-batch Merkle trees & Polygon smart contracts | Solidity, Next.js, TypeScript, Polygon, Web Crypto API | [Live Demo](https://certchain-six.vercel.app/) · [GitHub](https://github.com/SSManikandaprabu/certchain) |
 | **Tuition Desk** | 12-module offline-first PWA tuition manager with attendance, fee ledgers, atomic receipts & WhatsApp reminders | React 18, Node.js, Express, SQLite, Supabase, PWA | [Live Demo](https://tuition-desk-mom.vercel.app) · *Private Repo* |
-| **SRM Note Finder** | Full-stack academic hub with unit-wise notes, PYQs, SGPA/CGPA tools, JWT auth & moderated Socket.io chat | React, Node.js, Express, MongoDB, Socket.io, JWT | [Live Demo](https://srm-note-finder.vercel.app) · [GitHub](https://github.com/SSManikandaprabu/srm-note-finder) |
-| **HarvestAI** | Fruit maturity classifier (Unripe / Ripe / Overripe) achieving **96.0% test accuracy** (macro F1 `0.959`) | Python, TensorFlow/Keras, MobileNetV2, Flask | [Live Demo](https://harvestai-fruit-maturity-classification.onrender.com) · [GitHub](https://github.com/SSManikandaprabu/HarvestAI-Fruit-Maturity-Classification) |
 | **CareFlow** | Clinical appointment & live patient queue system with WebSocket room-call alerts and digital EHR/prescriptions | Next.js, TypeScript, Express, PostgreSQL, Prisma, Socket.io | [Live Demo](https://ssmanikandaprabu.github.io/careflow-hospital/) · [GitHub](https://github.com/SSManikandaprabu/careflow-hospital) |
+| **HarvestAI** | Fruit maturity classifier (Unripe / Ripe / Overripe) achieving **96.0% test accuracy** (macro F1 `0.959`) | Python, TensorFlow/Keras, MobileNetV2, Flask | [Live Demo](https://harvestai-fruit-maturity-classification.onrender.com) · [GitHub](https://github.com/SSManikandaprabu/HarvestAI-Fruit-Maturity-Classification) |
 
 ---
 
 ## 🧃 Tech Stack Tags  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-Solidity-%23363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Language-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Spring_Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Framework-Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Runtime-Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -90,8 +94,9 @@ I enjoy turning real-world workflows into fast, reliable software — from **100
   <img src="https://img.shields.io/badge/AI%2FML-Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Data-Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Data-NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/BaaS-Supabase-%233ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
   <img src="https://img.shields.io/badge/ORM-Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white" />
